@@ -1,8 +1,8 @@
 # About
 - 👋 Hi, I’m Thuvarakan
 - 👩🏻‍💻 Sharing my progress and insights from my data projects on GitHub
-- 👩🏻‍🎓 Studied Business Technology Management at the Toronto Metropolitan University(Ryerson University)
-- 👀 Currently interested in working in the field of data analytics
+- 👩🏻‍🎓 Studied Business Technology Management at the Toronto Metropolitan University
+- 👀 Currently working in Analytics
 - 🌱 I'm looking to learn more about machine learning and data science
 - 📫 Reach me at: 
   - Email: thuva347@outlook.com 
